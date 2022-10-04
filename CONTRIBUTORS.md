@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Devesh Swarnkar](https://github.com/devesh-0419)
+- Place: India
+- Bio: Love competitive coding and going forward with backend development
+- Github:[devesh-0419](https://github.com/devesh-0419) 
